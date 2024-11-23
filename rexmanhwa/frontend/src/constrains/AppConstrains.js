@@ -8,6 +8,6 @@ if (process.env.NODE_ENV == "development") {
   };
 } else {
   exports.default = {
-    baseURL: "https://www.crxinsider.com",
+    baseURL: "rexmahwaserver.up.railway.app",
   };
 }
