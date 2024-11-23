@@ -8,6 +8,6 @@ if (process.env.NODE_ENV == "development") {
   };
 } else {
   exports.default = {
-    baseURL: "rexmahwaserver.up.railway.app",
+    baseURL: "https://rexmahwaserver-production.up.railway.app",
   };
 }
